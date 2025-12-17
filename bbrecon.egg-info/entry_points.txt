@@ -1,0 +1,2 @@
+[console_scripts]
+bbrecon = bbrecon.main:main

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: bbrecon
+Version: 5.0.3
+Requires-Dist: aiohttp
+Requires-Dist: beautifulsoup4
+Dynamic: requires-dist

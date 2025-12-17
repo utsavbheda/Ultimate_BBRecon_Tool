@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# BBRecon Specific
+bbrecon_output/
+scan_log_*.log
+*.db
+*.sqlite
+
+# User Configuration (Hide your keys!)
+config.json
+provider-config.yaml
+scope.txt
+
+# System
+.DS_Store

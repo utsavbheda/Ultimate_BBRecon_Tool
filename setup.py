@@ -1,0 +1,2 @@
+from setuptools import setup, find_packages
+setup(name="bbrecon", version="5.0.3", packages=find_packages(), install_requires=["aiohttp", "beautifulsoup4"], entry_points={"console_scripts": ["bbrecon=bbrecon.main:main"]})
